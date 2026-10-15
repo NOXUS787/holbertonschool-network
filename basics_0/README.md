@@ -10,3 +10,4 @@ IP addresses, TCP/UDP, ports, and ping.
 - `2-MAC_and_IP_address`: answers to the MAC and IP address multiple choice questions
 - `3-UDP_and_TCP`: answers to the UDP and TCP multiple choice questions
 - `4-TCP_and_UDP_ports`: Bash script that displays listening sockets with their PID and program name
+- `5-is_the_host_on_the_network`: Bash script that pings an IP address 5 times, or prints a usage message if none is given
