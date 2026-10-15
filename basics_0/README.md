@@ -9,3 +9,4 @@ IP addresses, TCP/UDP, ports, and ping.
 - `1-types_of_network`: answers to the types of network multiple choice questions
 - `2-MAC_and_IP_address`: answers to the MAC and IP address multiple choice questions
 - `3-UDP_and_TCP`: answers to the UDP and TCP multiple choice questions
+- `4-TCP_and_UDP_ports`: Bash script that displays listening sockets with their PID and program name
